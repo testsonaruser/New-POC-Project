@@ -4,10 +4,10 @@ on:
     branches:
       - feature*
       - fb-*
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
     types:
       - opened
       - synchronize
