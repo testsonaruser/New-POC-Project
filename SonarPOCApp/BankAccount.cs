@@ -51,6 +51,5 @@ namespace SonarPOCApp
 
             m_balance += amount;
         }
-
     }
 }
