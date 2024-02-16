@@ -1,0 +1,2 @@
+﻿C:\POC\SonarPOCApp\SonarPOCApp\BankAccount.cs
+C:\POC\SonarPOCApp\SonarPOCApp\Program.cs
