@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarPOCApp", "SonarPOCApp\SonarPOCApp.csproj", "{6787852C-5563-47BC-812C-EE8C4316060C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarPOCApp.Tests", "SonarPOCApp.Tests\SonarPOCApp.Tests.csproj", "{3F172A80-48A5-4157-ACAD-E63B6ED09A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6787852C-5563-47BC-812C-EE8C4316060C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6787852C-5563-47BC-812C-EE8C4316060C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6787852C-5563-47BC-812C-EE8C4316060C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6787852C-5563-47BC-812C-EE8C4316060C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F172A80-48A5-4157-ACAD-E63B6ED09A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F172A80-48A5-4157-ACAD-E63B6ED09A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F172A80-48A5-4157-ACAD-E63B6ED09A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F172A80-48A5-4157-ACAD-E63B6ED09A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3174215-48E1-4F27-B45E-C05E56D67B34}
+	EndGlobalSection
+EndGlobal
